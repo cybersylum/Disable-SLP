@@ -15,4 +15,4 @@ Get-VMHost | Foreach {
 
 }
 
-disconnect-viserver -server "vcsa.fqdn.com"" -Force
+disconnect-viserver -server "vcsa.fqdn.com" -Force
